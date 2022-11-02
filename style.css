@@ -1,0 +1,24 @@
+.btn-primary{
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: blue;
+    border-radius: 30px;
+    border: none;
+}
+.btn-secondary{
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: red;
+    border-radius: 30px;
+    border: none;
+}
+.alert{
+    height: 3rem;
+    width: 100%;
+    
+}
+.alert-red{
+    background-color: red;
+}
